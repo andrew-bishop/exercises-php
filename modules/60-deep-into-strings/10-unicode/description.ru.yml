@@ -50,6 +50,7 @@ instructions: |
   ```
 
 tips:
-  - (Что такое кодировка)[https://guides.hexlet.io/encoding/]
+  - |
+  [Что такое кодировка](https://guides.hexlet.io/encoding/)
 
 definitions: []
